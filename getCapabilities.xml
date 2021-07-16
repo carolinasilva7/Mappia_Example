@@ -177,7 +177,7 @@
 				<Title>area_de_influecia_1</Title>
 				<Abstract>GH:area_de_influecia_1 ABSTRACT</Abstract>
 				<KeywordList>
-					<Keyword>group˸shp˸˸˸disabledownload˸notListing˸˸maxZoom˸5</Keyword>
+					<Keyword>group˸shp˸˸˸disabledownload˸notListing˸˸maxZoom˸1</Keyword>
 				</KeywordList>
 				<SRS>EPSG:4326</SRS>
 				<LatLonBoundingBox minx="-76.196554" miny="3.66332" maxx="-74.2829069999998" maxy="5.538237000000005"></LatLonBoundingBox>
@@ -197,7 +197,7 @@
 				<Title>area_con_municipios_enteros</Title>
 				<Abstract>GH:area_con_municipios_enteros ABSTRACT</Abstract>
 				<KeywordList>
-					<Keyword>group˸shp˸˸˸//github.com/carolinasilva7/Mappia_Example/releases/download/Map_Download/area_con_municipios_enteros.zip˸notListing˸˸maxZoom˸5</Keyword>
+					<Keyword>group˸shp˸˸˸//github.com/carolinasilva7/Mappia_Example/releases/download/Map_Download/area_con_municipios_enteros.zip˸notListing˸˸maxZoom˸1</Keyword>
 				</KeywordList>
 				<SRS>EPSG:4326</SRS>
 				<LatLonBoundingBox minx="-76.313888679" miny="3.3657054788892373" maxx="-74.20426913799997" maxy="5.79142275981029"></LatLonBoundingBox>
@@ -217,7 +217,7 @@
 				<Title>mgn_mpio_politico</Title>
 				<Abstract>GH:mgn_mpio_politico ABSTRACT</Abstract>
 				<KeywordList>
-					<Keyword>group˸shp˸˸˸//github.com/carolinasilva7/Mappia_Example/releases/download/Map_Download/mgn_mpio_politico.zip˸notListing˸˸maxZoom˸5</Keyword>
+					<Keyword>group˸shp˸˸˸//github.com/carolinasilva7/Mappia_Example/releases/download/Map_Download/mgn_mpio_politico.zip˸notListing˸˸maxZoom˸1</Keyword>
 				</KeywordList>
 				<SRS>EPSG:4326</SRS>
 				<LatLonBoundingBox minx="-81.73562055600001" miny="-4.22940646586102" maxx="-66.84721542699998" maxy="13.394727761574234"></LatLonBoundingBox>
